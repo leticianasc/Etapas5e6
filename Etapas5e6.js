@@ -1,3 +1,4 @@
+//Leticia Nascimento de Oliveira e Bruna Custódio da Silva
 var x = 27;
 
 var y = 470;
@@ -100,7 +101,7 @@ text('Vidas: '+vidas, 20, 30);
   
 text('Pontos: '+pontos, 200, 30);
   
-text('N�vel: '+dificuldade, 420, 30);
+text('Nível: '+dificuldade, 420, 30);
  
  ellipse(xo,yo, 50, 50)
   
